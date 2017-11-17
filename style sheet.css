@@ -1,0 +1,18 @@
+
+h1 {
+	color: blue;
+	font-family: arial;
+	font-size: 200%;
+}
+	
+
+p {
+	color: white;
+	font-family: code light;
+	font-size: 100%;
+}
+
+
+p {
+	padding: 50px;
+}
