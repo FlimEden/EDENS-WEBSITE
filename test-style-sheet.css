@@ -1,0 +1,22 @@
+h1 {
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	font-family: code bold;
+	font-size: 100px;
+}
+
+
+
+body {
+	background-image: url("smoke.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+
+
+p {
+	color: white;
+}
