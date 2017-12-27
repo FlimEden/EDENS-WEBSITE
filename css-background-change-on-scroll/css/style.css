@@ -1,3 +1,6 @@
+
+
+
 .content, .wrapper:before {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -16,6 +19,10 @@
 }
 
 
+
+
+
+/* left head buttons */
 .header-1 {
 position: absolute;
 z-index: 10;
@@ -24,9 +31,72 @@ padding-right: 5%;
 padding-top: 2%;
 text-decoration: none;
 font-family: code light;
-font-size: 15px;
+
 color: white;
 text-decoration: none;
+}
+
+
+/*right head buttons */
+.header-2 {
+position: absolute;
+z-index: 10;
+padding-left: 80%;
+padding-top: 2%;
+text-decoration: none;
+font-family: code light;
+
+color: white;
+text-decoration: none;
+}
+
+.para1 {
+  font-family: kozuka gothic pro EL;
+  color: white;
+}
+
+.leftie {
+  text-decoration: none;
+  color: white;
+  font-size: 1em;
+  z-index: 11;
+  padding-top: 10px;
+  position: absolute;
+  padding-left: 3%;
+}
+
+.leftie2 {
+  padding-left: 20%;
+  text-decoration: none;
+  color: white;
+  font-size: 1em;
+  z-index: 12;
+  padding-top: 10px;
+  position: absolute;
+  padding-left: 100%;
+}
+
+
+.rightie {
+  color: white;
+  font-size: 1em;
+  padding-top: 10px;
+  position: absolute;
+  padding-right: 10%;
+  color: white;
+  text-decoration: none;
+}
+
+
+
+.rightie2 {
+  position: absolute;
+  padding-left: 10%; 
+  color: white;
+  padding-top: 10px;
+  text-decoration: none;
+
+
 }
 
 
@@ -65,6 +135,7 @@ section {
 
 .one {
   background-image: url(https://unsplash.it/1920/1080?image=737);
+  width: 100%;
 }
 
 .one .wrapper:before {
@@ -90,7 +161,7 @@ section {
 }
 
 .four {
-  background-image: url(https://unsplash.it/1920/1080?image=634);
+  background-image: url(https://unsplash.it/);
 }
 
 .four .wrapper:before {
